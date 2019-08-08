@@ -36,3 +36,25 @@ Tools and Libraries used
 
 # Dataset
 https://www.yelp.com/dataset/download
+# Load dataset
+The data containing json files was converted to a compatible file to load on pandas’ data frame.Used business. json and review.json files to understand the dataset.
+```
+import os
+import json
+import csv
+import pandas as pd
+import numpy as np
+import collections
+from scipy.stats import zscore
+from sklearn.metrics import f1_score
+from sklearn.metrics import accuracy_score
+from sklearn import preprocessing
+from sklearn.model_selection import train_test_split
+pd.set_option('display.max_colwidth', -1)
+```
+# Creating Business Dataframe
+business_df= pd.read_csv('business.tsv', delimiter ="\t")
+
+# Creating Review Dataframe
+review_df= pd.read_csv('review_stars.tsv', delimiter ="\t")
+
