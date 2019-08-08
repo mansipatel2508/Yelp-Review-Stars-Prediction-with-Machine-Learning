@@ -65,7 +65,7 @@ Tfidf_vectorizer = sk_text.TfidfVectorizer(max_features=1000, lowercase=True, an
  # Regression Model
 
 ## Linear Regression
-
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Reg.png "REG")
 ## Neural Network Using Tensorflow
 
 Used earlystopping to prevent overfitting the model and used checkpointer to save the best model ran in the loop several time to jump out of the local mininum.
@@ -77,23 +77,29 @@ Applied paramter tuning by changing following:
 * Number of Neurons in each layer
 * Learning rate for Activation
 * Optimizer
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Reg_NN.png "Reg_NN")
+
 ## Comparison
-![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/Comparison.png "COMP")
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Comparison.png "COMP")
 # Classification Model
 ## Logistic Regression
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/LR.png "LR")
 ## SVM
-![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/SVM.PNG "SVM")
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/SVM.PNG "SVM")
 ## KNN
-![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/KNN.png "KNN")
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/KNN.png "KNN")
 ## MNB
-![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/MNB.png "MNB")
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/MNB.png "MNB")
 
 # Boost up Performances
 Output feature - review ratings categorised into categories as high, low and medium to boost the performance of the above applied model and it significantly boosts the performance
-## Logistic Regression
-## SVM
 ## KNN
-## MNB
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/KNN2.png "KNN2")
+## Logistic Regression
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Logs2.png "Logs2")
+## SVM
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/SVM2.png "SVM2")
+
 ## Neural Network Using Tensorflow
 
 Used earlystopping to prevent overfitting the model and used checkpointer to save the best model ran in the loop several time to jump out of the local mininum.
@@ -105,9 +111,13 @@ Applied paramter tuning by changing following:
 * Number of Neurons in each layer
 * Learning rate for Activation
 * Optimizer
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/NN1.png "NN1")
 
 # Boost up Performances
 Output feature - review ratings categorised into categories as high, low and medium to boost the performance of the above applied model and it significantly boosts the performance
-## Comparison
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/NN2.png "NN2")
 
+## Comparison
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/COMP2.png "COMP2")
 ## comparing all classification models
+![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/COMP3.png "COMP3")
