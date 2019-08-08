@@ -117,9 +117,16 @@ Applied paramter tuning by changing following:
 
 # Boost up Performances
 Output feature - review ratings categorised into categories as high, low and medium to boost the performance of the above applied model and it significantly boosts the performance
+
+Also applied Grid Search to get the best optimizer using keras wrappers library. This gives the best optimizer from given list for best performing model so far with accuracy, this all boost up the performance and beats the standard AI classification models.
+
+
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/NN2.png "NN2")
 
 ## Comparison
+Comparing the NN with previously best performed Logistic Regression model
+
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/COMP2.png "COMP2")
 ## comparing all classification models
+Observing all the F1 score, clearly the NN performs better than all other models such as Logistic Regression, SVM, KNN and MNB.
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/COMP3.png "COMP3")
