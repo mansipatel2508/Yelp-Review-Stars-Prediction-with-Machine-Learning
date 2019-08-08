@@ -4,19 +4,9 @@ https://colab.research.google.com/drive/1q5rvPOO8DvD8DV5DNLMVc8UDY7ntWHah
 **Big Data | Data Cleaning | Data Preporocessing | Text Processing | TF-IDF vectorization |  Regression | Classification | Model Evaluation | Model Performance Comparison**
 
 
- Tradition AI Models : KNN | SVM | Logistic Regression | Multinomial Naive Bayes | Linear Regression 
+ Tradition (Standard) AI Models : KNN | SVM | Logistic Regression | Multinomial Naive Bayes | Linear Regression 
  
  Deep Learning Models : Neural Network ( Regression & Classification )
- 
- ## Mini Project 1
- Mansi Patel
- 
- February 13, 2019
- 
- Prof : Haiquen Chen 
- 
- 
-Class : CSC 215-01
 
 # Problem statement
 Predicting the review stars from 1-5 star ratings based on the review given by the user.
@@ -130,3 +120,14 @@ Comparing the NN with previously best performed Logistic Regression model
 ## comparing all classification models
 Observing all the F1 score, clearly the NN performs better than all other models such as Logistic Regression, SVM, KNN and MNB.
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/COMP3.png "COMP3")
+
+
+## Mini Project 1 & 2
+Mansi Patel
+
+February 13, 2019
+
+Prof : H. Chen
+
+Class : CSC 215-01
+
