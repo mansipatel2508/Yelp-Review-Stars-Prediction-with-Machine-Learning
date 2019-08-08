@@ -66,7 +66,7 @@ Applied paramter tuning by changing following:
 * Number of Dense Layers
 * Number of Neurons in each layer
 * Learning rate for Activation
-* Optimizer
+* Optimizer : SGD, Adamax, Adam, Adagrad
 
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Reg_NN.png "Reg_NN")
 
@@ -101,7 +101,7 @@ Applied paramter tuning by changing following:
 * Number of Dense Layers
 * Number of Neurons in each layer
 * Learning rate for Activation
-* Optimizer
+* Optimizer : SGD, Adamax, Adam, Adagrad
 
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/NN1.png "NN1")
 
