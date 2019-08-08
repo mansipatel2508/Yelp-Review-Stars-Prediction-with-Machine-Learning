@@ -77,6 +77,7 @@ Applied paramter tuning by changing following:
 * Number of Neurons in each layer
 * Learning rate for Activation
 * Optimizer
+
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/Reg_NN.png "Reg_NN")
 
 ## Comparison
@@ -111,6 +112,7 @@ Applied paramter tuning by changing following:
 * Number of Neurons in each layer
 * Learning rate for Activation
 * Optimizer
+
 ![](https://github.com/mansipatel2508/Yelp-Review-Stars-Prediction-with-Machine-Learning/blob/master/images/NN1.png "NN1")
 
 # Boost up Performances
